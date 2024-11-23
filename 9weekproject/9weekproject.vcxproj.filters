@@ -15,11 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9weekproject.cpp">
+    <ClCompile Include="9weekproject.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10weekproject.cpp">
+    <ClCompile Include="10weekproject.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="12weekproject.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12wetest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ElfMath.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ElfMath.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
